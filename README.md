@@ -5,7 +5,8 @@ finance, data analysis, and the intersection of statistics and research.
 
 **What I'm working on:**
 -[planarian-regeneration-analysis](https://github.com/misha-shah/planarian-regeneration-analysis); Python reproduction of my published research on PFNA toxicity (ANOVA + Fisher's LSD)
-**-Currently building a portfolio analysis tool in Python**
+
+-Currently building a portfolio analysis tool in Python
 
 **Background:** Published researcher (biotechnology), competitive investment
 case competitions (Wharton Global HS Investment Competition), currently
