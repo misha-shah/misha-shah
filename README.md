@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Misha 
 
-<!--
-**misha-shah/misha-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freshman at UCLA majoring in Mathematics of Computation. Interested in quantitative
+finance, data analysis, and the intersection of statistics and research.
 
-Here are some ideas to get you started:
+**What I'm working on:**
+-[planarian-regeneration-analysis](https://github.com/misha-shah/planarian-regeneration-analysis) — Python reproduction of my published research on PFNA toxicity (ANOVA + Fisher's LSD)
+-Currently building a portfolio analysis tool in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:** Published researcher (biotechnology), competitive investment
+case competitions (Wharton Global HS Investment Competition), currently
+learning C++.
+
+Reach me at mcshah019@gmail.com
